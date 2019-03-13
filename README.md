@@ -1,7 +1,5 @@
 # 阿里巴巴-大天猫&供应链-技术质量部校招-2019
 
-![tmqa](https://raw.githubusercontent.com/LightStarlight/ALI-ASCP-QA-INTERNSHIP-2019/master/img/tmqa.png)
-
 ### 岗位描述Job Description
 
 五新战略下的复杂业务场景执行的正确， 
@@ -15,6 +13,8 @@
 每一次测试升级背后需要我们不破不立的勇气！ 
 
 来吧，加入我们吧！一起做新时代下世界领先的技术质量人~~
+
+![tmqa](https://raw.githubusercontent.com/LightStarlight/ALI-ASCP-QA-INTERNSHIP-2019/master/img/tmqa.png)
 
 ### 我们希望你：
 > 必选(1、2、9、10、11);可选(3\4\5\6\7\8)
@@ -30,9 +30,10 @@
 10. 喜欢钻研技术，对质量捍卫有热情，不断追求产品用户体验的完善；
 11. 具备奉献精神，善于沟通，善于团队合作；
 
-
 ### 内推 or 更多了解
-+ 加微信群：
-  + 请先发送简历至taosheng.ts@alibaba-inc.com，收到后会将您拉进微信群(无门槛)，便于更加方便的F&Q
-+ 对ali测试开发岗校招疑问，可创建issue，会尽快给予回复
-  + https://github.com/LightStarlight/ALI-ASCP-QA-INTERNSHIP-2019/issues
++ 请先发送简历至taosheng.ts@alibaba-inc.com，收到后会给您反馈
++ 对ali测试开发岗校招疑问
+    * 可加微信群：
+        - ![wx](https://raw.githubusercontent.com/LightStarlight/ALI-ASCP-QA-INTERNSHIP-2019/master/img/wx.PNG)
++ 也可创建issue，会尽快给予回复
+    * https://github.com/LightStarlight/ALI-ASCP-QA-INTERNSHIP-2019/issues
