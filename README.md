@@ -1,6 +1,6 @@
 # 阿里巴巴-大天猫&供应链-技术质量部校招-2019
 
-![ALI-ASCP-QA-INTERNSHIP-2019/img/tmqa.png](tmqa)
+![https://raw.githubusercontent.com/LightStarlight/ALI-ASCP-QA-INTERNSHIP-2019/master/img/tmqa.png](tmqa)
 
 ### 岗位描述Job Description
 
