@@ -60,8 +60,4 @@
 
 ### 内推 or 更多了解
 + 请先发送简历至taosheng.ts@alibaba-inc.com，收到后会给您反馈
-+ 对ali测试开发岗校招疑问
-    * 可加微信群：
-        - ![wx](https://raw.githubusercontent.com/LightStarlight/ALI-ASCP-QA-INTERNSHIP-2019/master/img/wx.PNG)
-+ 也可创建issue，会尽快给予回复
-    * https://github.com/LightStarlight/ALI-ASCP-QA-INTERNSHIP-2019/issues
++ 也欢迎加微信私聊，微信号：light_starlight
